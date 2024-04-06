@@ -1,2 +1,2 @@
 # apollo-graphql-middleware
-grapnel resolver middleware executor
+graphql resolver middleware executor
